@@ -1,0 +1,42 @@
+[
+  {
+    "ContainingType": "SmartPulseEPIAS.Controllers.TableController",
+    "Method": "Table",
+    "RelativePath": "api/Table/JsonFormat",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartPulseEPIAS.Controllers.TableListController",
+    "Method": "LastTable",
+    "RelativePath": "api/TableList/ListFormat-string",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartPulseEPIAS.Controllers.TransactionHistoryController",
+    "Method": "PostEPIAS",
+    "RelativePath": "api/TransactionHistory/get-transaction-history",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "SmartPulseEPIAS.Domain.Models.TransactionHistoryGipDataDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

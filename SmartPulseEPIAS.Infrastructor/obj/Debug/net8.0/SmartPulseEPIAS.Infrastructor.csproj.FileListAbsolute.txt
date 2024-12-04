@@ -1,0 +1,12 @@
+C:\Users\hilmi\OneDrive\Masaüstü\SmartPulseEPIAS_API\SmartPulseEPIAS\SmartPulseEPIAS.Infrastructor\obj\Debug\net8.0\SmartPulseEPIAS.Infrastructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilmi\OneDrive\Masaüstü\SmartPulseEPIAS_API\SmartPulseEPIAS\SmartPulseEPIAS.Infrastructor\obj\Debug\net8.0\SmartPulseEPIAS.Infrastructor.AssemblyInfoInputs.cache
+C:\Users\hilmi\OneDrive\Masaüstü\SmartPulseEPIAS_API\SmartPulseEPIAS\SmartPulseEPIAS.Infrastructor\obj\Debug\net8.0\SmartPulseEPIAS.Infrastructor.AssemblyInfo.cs
+C:\Users\hilmi\OneDrive\Masaüstü\SmartPulseEPIAS_API\SmartPulseEPIAS\SmartPulseEPIAS.Infrastructor\obj\Debug\net8.0\SmartPulseEPIAS.Infrastructor.csproj.CoreCompileInputs.cache
+C:\Users\hilmi\OneDrive\Masaüstü\SmartPulseEPIAS_API\SmartPulseEPIAS\SmartPulseEPIAS.Infrastructor\bin\Debug\net8.0\SmartPulseEPIAS.Infrastructor.deps.json
+C:\Users\hilmi\OneDrive\Masaüstü\SmartPulseEPIAS_API\SmartPulseEPIAS\SmartPulseEPIAS.Infrastructor\bin\Debug\net8.0\SmartPulseEPIAS.Infrastructor.dll
+C:\Users\hilmi\OneDrive\Masaüstü\SmartPulseEPIAS_API\SmartPulseEPIAS\SmartPulseEPIAS.Infrastructor\bin\Debug\net8.0\SmartPulseEPIAS.Infrastructor.pdb
+C:\Users\hilmi\OneDrive\Masaüstü\SmartPulseEPIAS_API\SmartPulseEPIAS\SmartPulseEPIAS.Infrastructor\obj\Debug\net8.0\SmartPulseEPIAS.Infrastructor.dll
+C:\Users\hilmi\OneDrive\Masaüstü\SmartPulseEPIAS_API\SmartPulseEPIAS\SmartPulseEPIAS.Infrastructor\obj\Debug\net8.0\refint\SmartPulseEPIAS.Infrastructor.dll
+C:\Users\hilmi\OneDrive\Masaüstü\SmartPulseEPIAS_API\SmartPulseEPIAS\SmartPulseEPIAS.Infrastructor\obj\Debug\net8.0\SmartPulseEPIAS.Infrastructor.pdb
+C:\Users\hilmi\OneDrive\Masaüstü\SmartPulseEPIAS_API\SmartPulseEPIAS\SmartPulseEPIAS.Infrastructor\obj\Debug\net8.0\ref\SmartPulseEPIAS.Infrastructor.dll
+C:\Users\hilmi\OneDrive\Masaüstü\SmartPulseEPIAS_API\SmartPulseEPIAS\SmartPulseEPIAS.Infrastructor\obj\Debug\net8.0\SmartPulseEPIAS.Infrastructor.csproj.AssemblyReference.cache

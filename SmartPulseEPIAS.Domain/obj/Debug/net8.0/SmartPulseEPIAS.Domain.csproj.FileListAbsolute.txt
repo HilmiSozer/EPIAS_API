@@ -1,0 +1,11 @@
+C:\Users\hilmi\OneDrive\Masaüstü\SmartPulseEPIAS_API\SmartPulseEPIAS\SmartPulseEPIAS.Domain\bin\Debug\net8.0\SmartPulseEPIAS.Domain.deps.json
+C:\Users\hilmi\OneDrive\Masaüstü\SmartPulseEPIAS_API\SmartPulseEPIAS\SmartPulseEPIAS.Domain\bin\Debug\net8.0\SmartPulseEPIAS.Domain.dll
+C:\Users\hilmi\OneDrive\Masaüstü\SmartPulseEPIAS_API\SmartPulseEPIAS\SmartPulseEPIAS.Domain\bin\Debug\net8.0\SmartPulseEPIAS.Domain.pdb
+C:\Users\hilmi\OneDrive\Masaüstü\SmartPulseEPIAS_API\SmartPulseEPIAS\SmartPulseEPIAS.Domain\obj\Debug\net8.0\SmartPulseEPIAS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilmi\OneDrive\Masaüstü\SmartPulseEPIAS_API\SmartPulseEPIAS\SmartPulseEPIAS.Domain\obj\Debug\net8.0\SmartPulseEPIAS.Domain.AssemblyInfoInputs.cache
+C:\Users\hilmi\OneDrive\Masaüstü\SmartPulseEPIAS_API\SmartPulseEPIAS\SmartPulseEPIAS.Domain\obj\Debug\net8.0\SmartPulseEPIAS.Domain.AssemblyInfo.cs
+C:\Users\hilmi\OneDrive\Masaüstü\SmartPulseEPIAS_API\SmartPulseEPIAS\SmartPulseEPIAS.Domain\obj\Debug\net8.0\SmartPulseEPIAS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hilmi\OneDrive\Masaüstü\SmartPulseEPIAS_API\SmartPulseEPIAS\SmartPulseEPIAS.Domain\obj\Debug\net8.0\SmartPulseEPIAS.Domain.dll
+C:\Users\hilmi\OneDrive\Masaüstü\SmartPulseEPIAS_API\SmartPulseEPIAS\SmartPulseEPIAS.Domain\obj\Debug\net8.0\refint\SmartPulseEPIAS.Domain.dll
+C:\Users\hilmi\OneDrive\Masaüstü\SmartPulseEPIAS_API\SmartPulseEPIAS\SmartPulseEPIAS.Domain\obj\Debug\net8.0\SmartPulseEPIAS.Domain.pdb
+C:\Users\hilmi\OneDrive\Masaüstü\SmartPulseEPIAS_API\SmartPulseEPIAS\SmartPulseEPIAS.Domain\obj\Debug\net8.0\ref\SmartPulseEPIAS.Domain.dll
